@@ -96,3 +96,23 @@
     gap: 18px;
   }
 }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer {
+  position: fixed; /* Футер всегда внизу */
+  bottom: 0;
+  width: 100%;
+  background-color: #333; /* Цвет фона, как на вашей картинке */
+  color: #ccc; /* Цвет текста, светло-серый */
+  text-align: center; /* Центрирование текста */
+  padding: 10px; /* Отступы */
+  font-size: 14px; /* Размер текста */
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
