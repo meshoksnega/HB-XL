@@ -102,14 +102,14 @@ body {
 }
 
 .footer {
-  position: fixed; /* Футер всегда внизу */
+  position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #333; /* Цвет фона, как на вашей картинке */
-  color: #ccc; /* Цвет текста, светло-серый */
-  text-align: center; /* Центрирование текста */
-  padding: 10px; /* Отступы */
-  font-size: 14px; /* Размер текста */
+  background-color: #333;
+  color: #ccc;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px; 
 }
 
 .footer-content {
